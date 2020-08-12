@@ -1,0 +1,9 @@
+Name,Quantity,Component
+"U2",1," 5V Regulator [LM7805]"
+"BAT1",1," 9V Battery"
+"BAT2",1," Coin Cell 3V Battery"
+"U3",1," Temperature Sensor [TMP36]"
+"U4",1," 741 Operational Amplifier"
+"R2",1,"22 kΩ Resistor"
+"R3",1,"82 kΩ Resistor"
+"Meter2",1,"Voltage Multimeter"
